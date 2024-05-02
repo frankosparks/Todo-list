@@ -1,4 +1,4 @@
-This is a simple todo list that i have used concepts of arrays on js to make.
+This is a simple todo list that i have used concepts of arrays on js to design.
 It has some core html.
 It also has some css that has styled it.
 One is able to type work that one is planning to do as input.
